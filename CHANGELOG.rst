@@ -15,6 +15,10 @@ Unreleased
 Added
 =====
 
+- Recipes section in the manual
+
+- Django HTML support (preliminary, will only pass through injected languages)
+
 - WebGL Shading Language (WGSL) support
 
 - Missing patterns for C++:
